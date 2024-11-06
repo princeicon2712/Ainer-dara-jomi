@@ -39,8 +39,8 @@
 
 ## যে আইন গুলো জান্তে হবে 
 
-<!--[profile](./jomi.jpg)-->
-<img src="jomi.jpg" width="600"/>
+<!--[profile](./jomi.jpeeg)-->
+<img src="jomi.jpeg" width="600"/>
 
 
 
