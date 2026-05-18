@@ -3,6 +3,24 @@
 ## দেওয়ানি --- জমি সংক্ষান্ত
 
 
+G.R
+General Register
+থানার FIR মামলা
+C.R
+Complaint Register
+সরাসরি কোর্টে অভিযোগ
+M.R
+Miscellaneous Register
+সহায়ক/আবেদন মামলা
+N.I
+Negotiable Instruments
+চেক বাউন্স মামলা
+L.S.T
+Land Survey Tribunal
+জমির রেকর্ড সংশোধন
+আপনি চাইলে আমি আরও বিস্তারিত বলতে পারি:
+
+
 
 # Ainer-dara-jomi
 
