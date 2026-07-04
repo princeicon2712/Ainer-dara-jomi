@@ -20,7 +20,8 @@ Land Survey Tribunal
 জমির রেকর্ড সংশোধন
 আপনি চাইলে আমি আরও বিস্তারিত বলতে পারি:
 
-
+<!--[profile](./a.jpg)-->
+<img src="a.jpeg" width="600"/>
 
 # Ainer-dara-jomi
 
