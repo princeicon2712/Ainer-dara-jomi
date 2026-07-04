@@ -21,7 +21,7 @@ Land Survey Tribunal
 আপনি চাইলে আমি আরও বিস্তারিত বলতে পারি:
 
 <!--[profile](./a.jpg)-->
-<img src="a.jpeg" width="600"/>
+<img src="a.jpg" width="600"/>
 
 # Ainer-dara-jomi
 
